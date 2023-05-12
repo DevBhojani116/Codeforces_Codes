@@ -11,7 +11,6 @@ public class Olympiad
     {
         int n = sc.nextInt();
         int st[] = new int[n];
-        int index[] = new int[n];
         int one = 0, two = 0, three = 0;
         for(int i = 0; i<n; i++)
         {

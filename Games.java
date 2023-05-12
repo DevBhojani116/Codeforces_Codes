@@ -11,7 +11,6 @@ public class Games
     {
         int n = sc.nextInt();
         int arr[][] = new int[n][2];
-        int a[] = new int[10];
         for(int i = 0; i<n; i++)
         {
             for(int j = 0; j<2; j++)
